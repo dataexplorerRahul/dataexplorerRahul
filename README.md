@@ -17,9 +17,11 @@ I'm a Data Science professional passionate about building impactful, real-world 
 - RAG optimization & LLM evaluation
 
 ### 🤝 Let’s Connect
-- 📫 Email: rahulmenon1758@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahulmenon1758/)  
+- 📫 Email: rahulmenon1758@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahulmenon1758/)
+- ⚒️ [Kaggle](https://www.kaggle.com/rahulmenon1758) 
 - 💻 [Projects](https://github.com/dataexplorerRahul)
+
 
 ---
 
