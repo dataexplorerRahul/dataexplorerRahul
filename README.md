@@ -7,6 +7,7 @@ I'm a Data Science professional passionate about building impactful, real-world 
 - Architect **Retrieval-Augmented Generation (RAG)** pipelines and context-aware AI agents for complex problem solving.
 - Build scalable, serverless infrastructure using **AWS (Lambda, ECS Fargate, API Gateway, S3, SQS)**.
 - Create multimodal systems combining **image, video, and text** data for use cases like mental health diagnostics.
+- I also write notebooks about my experiments on [Kaggle](https://www.kaggle.com/rahulmenon1758)
 
 ### 🛠️ Skills & Tools
 **Python**, **TensorFlow**, **FastAPI**, **Docker**, **SQL**, **Scikit-Learn**, **NLP**, **LLM Fine-tuning**, **Prompt Engineering**, **LangChain**, **RAG**, **AWS**, **CI/CD**, **Data Visualization**
@@ -19,7 +20,6 @@ I'm a Data Science professional passionate about building impactful, real-world 
 ### 🤝 Let’s Connect
 - 📫 Email: rahulmenon1758@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahulmenon1758/)
-- ⚒️ [Kaggle](https://www.kaggle.com/rahulmenon1758) 
 - 💻 [Projects](https://github.com/dataexplorerRahul)
 
 
